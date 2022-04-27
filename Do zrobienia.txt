@@ -1,0 +1,12 @@
+Extractor
+Odpalanie Extractora zeby bylo z flagami:
+- input file (pinterest.html)
+- output_filename (.txt)
+
+PinterestBot
+-Zapamietywanie ktore pobral jesli sie scrashuje
+mozna na podstaie kopiowania pliku i usuwania id ktore juz sie prszemielily
+
+pozatym flagi:
+-input (ids.txt)
+-outputdir (dirname) if not exist create
